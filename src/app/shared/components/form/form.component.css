@@ -1,0 +1,42 @@
+.container{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 5% 0;
+    margin-top: 200px;
+}
+.mb-3, 
+.mb-4,
+.mb-5 {
+    margin:10px;
+    padding-top:10px;
+}
+.button{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+}
+.contato{
+    font-size:50px;
+    color:rgb(35, 36, 43);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 100PX;
+}
+.form-control{
+    border-radius: 50px;
+}
+
+
+.mb-3{
+    width: 70%;
+}
+.mb-4 {
+    width: 50%;
+}
+.mb-5 {
+    width: 30%;
+}
+.btn-primary {
+    border: 3px solid #666;
+}

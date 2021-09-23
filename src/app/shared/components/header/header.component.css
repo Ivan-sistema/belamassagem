@@ -1,0 +1,38 @@
+/*Barra de navegação */
+
+.container-full-header{
+    background: #f9f9f9;
+}
+
+header, .navbar{
+height: 140px;
+}
+
+#nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo {
+    width: 200px;
+}
+.navbar-brand {
+    padding: 0;
+    color:#FFF;
+}
+.navbar-brand:hover {
+    color: #FFF;
+}
+#navbar-links a {
+    color: #000;
+    font-size: 20px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+}
+.nav-item,
+.nav-link {
+    font-size: 18px;
+}
+
+

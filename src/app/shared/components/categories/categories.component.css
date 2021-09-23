@@ -1,0 +1,15 @@
+.container-full-categories{
+    padding: 5% 0;
+    background: #fff;
+}
+.logo {
+    margin-bottom: 20px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+

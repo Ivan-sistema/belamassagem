@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;300;400;600;700&display=swap');
+
+
+body {
+    font-family:'Montserrat Alternates';
+    color: #154276;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+53,727272+66,727272+66,606060+73,424242+79,000000+96 */
+background: rgb(255,255,255); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(255,255,255,1) 53%, rgba(114,114,114,1) 66%, rgba(114,114,114,1) 66%, rgba(96,96,96,1) 73%, rgba(66,66,66,1) 79%, rgba(0,0,0,1) 96%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(255,255,255,1) 53%,rgba(114,114,114,1) 66%,rgba(114,114,114,1) 66%,rgba(96,96,96,1) 73%,rgba(66,66,66,1) 79%,rgba(0,0,0,1) 96%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(255,255,255,1) 53%,rgba(114,114,114,1) 66%,rgba(114,114,114,1) 66%,rgba(96,96,96,1) 73%,rgba(66,66,66,1) 79%,rgba(0,0,0,1) 96%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+
+
+
+
+
+
+}
+
+.row{
+    margin:0;
+}
+
+p, li {
+    color:#444;
+    font-size: 14px;
+}
+
+.default-title{
+    font-size: 52px;
+}

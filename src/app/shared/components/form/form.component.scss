@@ -3,13 +3,15 @@
     &__contact{
         background: #154276;
         padding: 5% 0;
-        margin-top: 200px;
+        margin-top: 250px;
+        color:#000
     }
 
 }
 .mb-3, 
 .mb-4,
-.mb-5 {
+.mb-5,
+.mb-6 {
     margin:10px;
     padding-top:10px;
 }
@@ -32,15 +34,27 @@
 }
 
 
-.mb-3{
+.mb-3, img{
     width: 70%;
 }
 .mb-4 {
-    width: 50%;
+    width: 65%;
 }
 .mb-5 {
-    width: 30%;
+    width: 60%;
+}
+.mb-6{
+    width: 55%;
 }
 .btn-primary {
     border: 3px solid #666;
+}
+.photo{
+    align-items: center;
+    width: 500px;
+}
+
+.img{
+    width: 300px;
+    height: 200px;
 }

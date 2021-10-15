@@ -11,6 +11,7 @@ import { HighlightsComponent } from './shared/components/highlights/highlights.c
 import { AllMasseursComponent } from './shared/components/all-masseurs/all-masseurs.component';
 import { FormComponent } from './shared/components/form/form.component';
 import { FooterComponent } from './shared/components/footer/footer.component';
+import { PlanComponent } from './shared/components/plan/plan.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { FooterComponent } from './shared/components/footer/footer.component';
     HighlightsComponent,
     AllMasseursComponent,
     FormComponent,
-    FooterComponent
+    FooterComponent,
+    PlanComponent
   ],
   imports: [
     BrowserModule,

@@ -29,10 +29,20 @@ height: 140px;
 }
 .navbar-expand-lg .navbar-nav .nav-link {
     padding: 1rem .8rem;
+    list-style: none;
 }
 .nav-item,
 .nav-link {
     font-size: 18px;
 }
 
+.navbar-collapse{
+    z-index: 9999999 !important;
+    overflow: hidden;
+}
+
+.navbar-toggler{
+    background-color: #fff;
+    border: 2px solid #154276 !important;
+}
 

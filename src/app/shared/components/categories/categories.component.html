@@ -11,7 +11,7 @@
     
         <div class="container"> <!-- container é um componente do Bootstrap que garante que o seu layout vai ficar alinhado corretamente na página-->
             <div class="row"> 
-                <div class="col-md-12 d-flex">
+                <div class="col-md-12 d-flex" *ngFor="let cat of categories">
                     <div class="col-md-4">
                         <img class="img-fluid rounded-circle"  src="https://i1.wp.com/blog.drconsulta.com/wp-content/uploads/2019/05/massagem-faz-bem-pra-sa%C3%BAde.jpg?fit=1024%2C683&ssl=1">
                     </div>

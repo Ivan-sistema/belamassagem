@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SliderComponent implements OnInit {
 
+  sliders: string[] = [];
+  
   constructor() { }
 
   ngOnInit(): void {
